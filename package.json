@@ -1,0 +1,26 @@
+{
+  "name": "zksnarks",
+  "version": "1.0.0",
+  "description": "Understanding zk-SNARKs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelgalicia/zksnarks-basics.git"
+  },
+  "keywords": [
+    "ethereum",
+    "zk-SNARK"
+  ],
+  "author": "Axel Galicia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelgalicia/zksnarks-basics/issues"
+  },
+  "homepage": "https://github.com/axelgalicia/zksnarks-basics#readme",
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
